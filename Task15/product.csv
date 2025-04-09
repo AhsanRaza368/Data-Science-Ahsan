@@ -1,0 +1,13 @@
+pid,name,description,price,image,rating
+p01,Refrigerator,"Large capacity, frost-free refrigerator with adjustable shelves",799.99,refrigerator.jpg,4.5
+p03,Microwave Oven,Compact microwave oven with multiple cooking presets,129.99,microwave_oven.jpg,4.0
+p04,Washing Machine,Top_loading washing machine with various wash cycles,499.99,washing_machine.jpg,4.2
+p05,Dishwasher,Energy efficient dishwasher with multiple wash programs,699.99,dishwasher.jpg,4.8
+p06,Coffee Maker,Programmable coffee maker with built in grinder,89.99,coffee_maker.jpg,4.6
+p07,Toaster,Four-slice toasterwith adjustable browning settings,39.99,toaster.jpg,4.0
+p08,Blender ,High-speed blender for smoothies and soups,69.99,blender.jpg,4.5
+p09,Vacuum Cleaner,"Bagless,cordless vacuum cleaner with HEPA filter",149.99,vacuum_cleaner.jpg,4.7
+p10,Air Purifier,HEPA air purifier with smart sensors for indoor air quality,199.99,air_purifier.jpg,4.6
+p11,Electric Kettle,Stainless steel electric kettle with rapid boiling feature,29.99,electric_kettle.jpg,4.1
+,,,,,
+15,Refrigerator,Large capacity,799.99, refrigerator.jpg,4.5
